@@ -1,0 +1,16 @@
+package com.abt.sample.strategy;
+
+/**
+ * @描述： @具体算法A
+ * @作者： @黄卫旗
+ * @创建时间： @17/05/2018
+ */
+public class ConcreteStrategyA extends Strategy {
+
+    // 算法A实现方法
+    @Override
+    public void AlgorithmInterface() {
+        System.out.println("算法A的实现");
+    }
+
+}
