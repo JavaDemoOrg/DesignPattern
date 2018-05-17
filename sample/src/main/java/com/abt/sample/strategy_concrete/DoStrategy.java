@@ -1,4 +1,4 @@
-package com.abt.sample.strategy;
+package com.abt.sample.strategy_concrete;
 
 /**
  * @描述： @客户端代码：实现不同的策略

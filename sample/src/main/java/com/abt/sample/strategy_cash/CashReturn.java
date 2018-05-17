@@ -1,4 +1,4 @@
-package com.abt.sample.strategy_case;
+package com.abt.sample.strategy_cash;
 
 /**
  * @描述： @返利收费子类
@@ -10,9 +10,9 @@ public class CashReturn extends CashSuper {
     private double moneyCondition = 0.0d;
     private double moneyReturn = 0.0d;
 
-    public CashReturn(double moneyCondition, double moenyReturn) {
+    public CashReturn(double moneyCondition, double moneyReturn) {
         this.moneyCondition = moneyCondition;
-        this.moneyReturn = moenyReturn;
+        this.moneyReturn = moneyReturn;
     }
 
     @Override

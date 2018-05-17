@@ -1,4 +1,4 @@
-package com.abt.sample.strategy_case;
+package com.abt.sample.strategy_cash;
 
 /**
  * @描述： @正常收费子类
