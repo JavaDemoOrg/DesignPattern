@@ -1,4 +1,4 @@
-package com.abt.sample.strategy;
+package com.abt.sample.strategy_concrete;
 
 /**
  * @描述： @抽象算法的策略类，定义所有支持的算法的公共接口
@@ -7,7 +7,7 @@ package com.abt.sample.strategy;
  */
 abstract class Strategy {
 
-    //算法方法
+    // 算法方法
     public abstract void AlgorithmInterface();
 
 }
