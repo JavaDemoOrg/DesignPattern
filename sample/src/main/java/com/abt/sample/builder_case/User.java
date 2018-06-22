@@ -1,4 +1,4 @@
-package com.abt.sample.builder;
+package com.abt.sample.builder_case;
 
 /**
  * @描述： @User
