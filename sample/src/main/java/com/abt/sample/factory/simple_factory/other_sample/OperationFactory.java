@@ -1,4 +1,4 @@
-package com.abt.sample.factory.simple_factory;
+package com.abt.sample.factory.simple_factory.other_sample;
 
 /**
  * @描述： @何为简单工厂模式，只有一个工厂，不需要提供工厂接口，

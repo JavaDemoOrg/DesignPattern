@@ -1,4 +1,4 @@
-package com.abt.sample.factory.simple_factory;
+package com.abt.sample.factory.simple_factory.other_sample;
 
 /**
  * @描述： @OperationAdd
