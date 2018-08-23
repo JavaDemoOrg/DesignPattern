@@ -1,12 +1,13 @@
-package com.abt.sample.proxy;
+package com.abt.sample.proxy.impl_1_0;
 
 /**
  * @描述： @ProxyObject
  * @作者： @黄卫旗
  * @创建时间： @2018/5/17
  */
-public class ProxyObject extends AbstractObject{
+public class ProxyObject extends AbstractObject {
     RealObject realObject = new RealObject();
+
     @Override
     public void operation() {
         //调用目标对象之前可以做相关操作

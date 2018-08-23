@@ -1,4 +1,4 @@
-package com.abt.sample.proxy;
+package com.abt.sample.proxy.impl_1_0;
 
 /**
  * @描述： @AbstractObject
